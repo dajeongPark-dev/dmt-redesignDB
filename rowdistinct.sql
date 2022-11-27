@@ -1,0 +1,2 @@
+create table bus_tb_only_2018
+SELECT DISTINCT BUS_ID, BUS_NM FROM BUS_2018_TB;

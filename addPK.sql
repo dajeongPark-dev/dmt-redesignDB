@@ -1,0 +1,8 @@
+ALTER TABLE `busdb`.`BUS_2020_TB` 
+ADD PRIMARY KEY (`BUS_NM`);
+;
+
+ALTER TABLE `busdb`.`BUS_2021_TB` 
+ADD PRIMARY KEY (`BUS_NM`);
+;
+
